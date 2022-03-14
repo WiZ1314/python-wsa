@@ -4,4 +4,5 @@
 # 创建时间:2022/2/28 16:27
 import math as m
 
-print('结果', float(input('输入')) ** 2 * m.pi)
+print(m.pow(3, 2))
+print(m.pow(9, 2))
