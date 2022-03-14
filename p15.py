@@ -21,9 +21,6 @@ else:
 	print('%d不是闰年' % nian)
 # 任务三
 print('------------任务三------------')
-word = input("请输入字母：")
-len(word)
-if word < 'A' or word > 'Z':
-	print("大写！")
-else:
-	print('小写')
+c = input("请输入字母：")
+if 'a' <= c <= "z":
+	print("小写！")
