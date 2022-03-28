@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d332c140-7bec-4a7a-9c62-06e0b2698baa" name="变更" comment="3.21 学习if分支">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/邮费.py" beforeDir="false" afterPath="$PROJECT_DIR$/邮费.py" afterDir="false" />
-    </list>
+    <list default="true" id="d332c140-7bec-4a7a-9c62-06e0b2698baa" name="变更" comment="3.28" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -317,7 +314,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647832984734</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3.28 学习if分支">
+      <created>1648439535164</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648439535164</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3.28">
+      <created>1648439778113</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648439778113</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,6 +345,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3.14" />
     <MESSAGE value="3.21 学习if分支" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.21 学习if分支" />
+    <MESSAGE value="3.28 学习if分支" />
+    <MESSAGE value="3.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.28" />
   </component>
 </project>
